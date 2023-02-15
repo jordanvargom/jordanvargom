@@ -73,6 +73,10 @@ En mi tiempo libre, disfruto de buscar nuevas oportunidades para aprender y crec
 
 ## Connect with me  
 <div align="center">
+  <div align="center" >
+Si estás interesado en colaborar en algún proyecto o simplemente quieres conectarte, no dudes en contactarme. ¡Estoy siempre abierto a nuevas ideas y desafíos!
+</div>  
+  </br>
 <a href="https://github.com/jordanvargom" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -85,9 +89,6 @@ En mi tiempo libre, disfruto de buscar nuevas oportunidades para aprender y crec
 <a href="https://instagram.com/jorgedaniel93" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<div align="center" >
-Si estás interesado en colaborar en algún proyecto o simplemente quieres conectarte, no dudes en contactarme. ¡Estoy siempre abierto a nuevas ideas y desafíos!
-</div>  
 </div>  
   
 
